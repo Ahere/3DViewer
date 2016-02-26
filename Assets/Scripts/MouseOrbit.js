@@ -1,5 +1,7 @@
 var target : Transform;
-var distance = 10.0;
+var zdistance = 10.0;
+var ydistance = 3;
+
 
 var xSpeed = 250.0;
 var ySpeed = 120.0;
@@ -31,7 +33,12 @@ function LateUpdate () {
  		y = ClampAngle(y, yMinLimit, yMaxLimit);
  		       
         var rotation = Quaternion.Euler(y, x, 0);
-        var position = rotation * Vector3(0.0, 0.0, -distance) + target.position;
+        Debug.Log("rotaion" + rotation);
+
+        var x = rotation * Vector3(0.0, ydistance, -zdistance) ;
+        Debug.Log("var x" + x);
+
+        var position = x + target.position;
         
         transform.rotation = rotation;
         transform.position = position;

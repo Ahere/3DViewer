@@ -14,17 +14,18 @@ function Update () {
 		transform.position.x = Mathf.Clamp(transform.position.x, xMin, xMax);
 	}
 	
-	if (Input.GetKey("w")){
-		transform.Translate(Vector3.up * Time.deltaTime * panSpeed);
+	if (Input.GetKey("w") || Input.GetKey("up") )
+	{
+		transform.Translate(Vector3.up * Time.deltaTime * panSpeed, Space.Self);
 	}
-	else if (Input.GetKey("s")){
-		transform.Translate(-Vector3.up * Time.deltaTime * panSpeed);
+	else if (Input.GetKey("s") || Input.GetKey("down")){
+		transform.Translate(-Vector3.up * Time.deltaTime * panSpeed,  Space.Self);
 	}
 	
-	if (Input.GetKey("d")){
-		transform.Translate(Vector3.right * Time.deltaTime * panSpeed);
+	if (Input.GetKey("d") || Input.GetKey("right")){
+		transform.Translate(Vector3.right * Time.deltaTime * panSpeed,  Space.Self);
 	}
-	else if (Input.GetKey("a")){
-		transform.Translate(-Vector3.right * Time.deltaTime * panSpeed);
+	else if (Input.GetKey("a") || Input.GetKey("left")){
+		transform.Translate(-Vector3.right * Time.deltaTime * panSpeed,  Space.Self);
 	}
 }
