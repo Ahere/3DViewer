@@ -31,7 +31,7 @@ function LateUpdate () {
         var rotation = Quaternion.Euler(y, x, 0);
 
         
-        transform.rotation = rotation;
+       transform.rotation = rotation;
 
     }
 }

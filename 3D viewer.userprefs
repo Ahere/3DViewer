@@ -1,10 +1,13 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
+﻿<Properties StartupItem="Assembly-CSharp-firstpass.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CamZoom.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SmoothFollow.js">
     <Files>
-      <File FileName="Assets\Scripts\CamZoom.js" Line="17" Column="1" />
-      <File FileName="Assets\Scripts\goey.js" Line="1" Column="1" />
-      <File FileName="Assets\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CamZoom.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\goey.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\Pan.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouseOrbit.js" Line="44" Column="9" />
+      <File FileName="Assets\Scripts\LightOrbit.js" Line="34" Column="7" />
+      <File FileName="Assets\Scripts\SmoothFollow.js" Line="10" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
