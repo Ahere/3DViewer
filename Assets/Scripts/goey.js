@@ -35,12 +35,12 @@ function Update (){
 		GetComponent(AudioListener).enabled = true;
 		soundEnabled = true;
 	}
-	if (Input.GetKeyDown("h") && guiEnabled){
-		guiEnabled = false;
-	}
-	else if (Input.GetKeyDown("h") && !guiEnabled){
-		guiEnabled = true;
-	}
+	//if (Input.GetKeyDown("h") && guiEnabled){
+		//guiEnabled = false;
+	//}
+	//else if (Input.GetKeyDown("h") && !guiEnabled){
+		//guiEnabled = true;
+	//}
 }
 
 //	//function OnGUI () {
