@@ -15,6 +15,7 @@ private var y = 0.0;
 @script AddComponentMenu("Camera-Control/Mouse Orbit")
 
 function Start () {
+   // transform.position = position;
     var angles = transform.eulerAngles;
     x = angles.y;
     y = angles.x;
@@ -24,7 +25,7 @@ function Start () {
 		GetComponent.<Rigidbody>().freezeRotation = true;
 }
 
-function LateUpdate () {
+function Update () {
 
     if (target && Input.GetMouseButton(0) && !Input.GetKey("left alt")) {
         x += Input.GetAxis("Mouse X") * xSpeed * 0.02;
@@ -38,7 +39,7 @@ function LateUpdate () {
         var x = rotation * Vector3(0.0, ydistance, -zdistance) ;
         Debug.Log("var x" + x);
 
-        var position = x + target.position;
+         var position = x + target.position;
         
         transform.rotation = rotation;
         transform.position = position;
