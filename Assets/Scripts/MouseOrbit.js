@@ -34,10 +34,10 @@ function Update () {
  		y = ClampAngle(y, yMinLimit, yMaxLimit);
  		       
         var rotation = Quaternion.Euler(y, x, 0);
-        Debug.Log("rotaion" + rotation);
+       // Debug.Log("rotaion" + rotation);
 
         var x = rotation * Vector3(0.0, ydistance, -zdistance) ;
-        Debug.Log("var x" + x);
+        //Debug.Log("var x" + x);
 
          var position = x + target.position;
         
