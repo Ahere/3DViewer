@@ -1,3 +1,4 @@
 # 3DViewer
 3D model viewer made in Unity.
-This is a 3D model viewer. Instructions on use will be posted here soon after I am done. 
+Open the 3DViewerPPT zip file to find a PPT and videos explaining how to use the Viewer.
+The exported packge is in the package folder.
