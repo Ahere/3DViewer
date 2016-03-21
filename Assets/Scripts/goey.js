@@ -9,7 +9,7 @@ import UnityEngine.SceneManagement;
 
 //add button names here
 
-var skinny : GUISkin;
+//var skinny : GUISkin;
 
 //var buttonWidth = 95.0; //modifies buttonWidth, for longer Strings
 //public var scene : String; 

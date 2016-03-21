@@ -7,7 +7,7 @@ public class Shaders : MonoBehaviour {
 	public Material orignMat;
 	public Material mat1;
 	public Material mat2;
-	public Material mat3;
+	//public Material mat3;
 
 
 	// Use this for initialization
@@ -54,15 +54,15 @@ public class Shaders : MonoBehaviour {
 
 		}
 	}
-	public void SetMat3()
-	{
-		if (mat3 != null) {
-			GetComponent<Renderer>().material = mat3;
+	//public void SetMat3()
+	//{
+	//	if (mat3 != null) {
+	//		GetComponent<Renderer>().material = mat3;
 		
 
 	
-		}
+	//	}
 
-	}
+//	}
 
 }

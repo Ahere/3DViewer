@@ -1,0 +1,72 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: NVIDIA GeForce 9800 GT (ID=0x614)
+    Vendor:   NVIDIA
+    VRAM:     2089 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: D:\UnityProject\3D viewer\PCbuild\3D viewer_Data\Managed\Boo.Lang.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Hidden/SSAO' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/SSAO' - Setting to default shader.
+UnloadTime: 0.972732 ms
+(360.0, 248.3)screenPoint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, -4.0)offset
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(419.9, 237.9)screenPoint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(-1.5, -3.3)offset
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.499862 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 426.
+Total: 0.622091 ms (FindLiveObjects: 0.062033 ms CreateObjectMapping: 0.037835 ms MarkObjects: 0.472067 ms  DeleteObjects: 0.049714 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.341851 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 416.
+Total: 0.938856 ms (FindLiveObjects: 0.055433 ms CreateObjectMapping: 0.030356 ms MarkObjects: 0.526181 ms  DeleteObjects: 0.325564 ms)
+
+(360.0, 117.3)screenPoint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+(0.0, -7.0)offset
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5e4 -> priority: 1 
