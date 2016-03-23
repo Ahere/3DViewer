@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: b01345da09a3ee440b2adf139f62cb0d
+timeCreated: 1458644687
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object009
+    100004: Object009_MeshPart0
+    100006: Object009_MeshPart1
+    100008: Object009_MeshPart2
+    100010: Object009_MeshPart3
+    100012: Object009_MeshPart4
+    100014: Object009_MeshPart5
+    100016: Object009_MeshPart6
+    100018: Object009_MeshPart7
+    100020: Object009_MeshPart8
+    100022: Object009_MeshPart9
+    100024: Object010
+    100026: Object010_MeshPart0
+    100028: Object010_MeshPart1
+    100030: Object010_MeshPart2
+    400000: //RootNode
+    400002: Object009
+    400004: Object009_MeshPart0
+    400006: Object009_MeshPart1
+    400008: Object009_MeshPart2
+    400010: Object009_MeshPart3
+    400012: Object009_MeshPart4
+    400014: Object009_MeshPart5
+    400016: Object009_MeshPart6
+    400018: Object009_MeshPart7
+    400020: Object009_MeshPart8
+    400022: Object009_MeshPart9
+    400024: Object010
+    400026: Object010_MeshPart0
+    400028: Object010_MeshPart1
+    400030: Object010_MeshPart2
+    2300000: Object009_MeshPart0
+    2300002: Object009_MeshPart1
+    2300004: Object009_MeshPart2
+    2300006: Object009_MeshPart3
+    2300008: Object009_MeshPart4
+    2300010: Object009_MeshPart5
+    2300012: Object009_MeshPart6
+    2300014: Object009_MeshPart7
+    2300016: Object009_MeshPart8
+    2300018: Object009_MeshPart9
+    2300020: Object010_MeshPart0
+    2300022: Object010_MeshPart1
+    2300024: Object010_MeshPart2
+    3300000: Object009_MeshPart0
+    3300002: Object009_MeshPart1
+    3300004: Object009_MeshPart2
+    3300006: Object009_MeshPart3
+    3300008: Object009_MeshPart4
+    3300010: Object009_MeshPart5
+    3300012: Object009_MeshPart6
+    3300014: Object009_MeshPart7
+    3300016: Object009_MeshPart8
+    3300018: Object009_MeshPart9
+    3300020: Object010_MeshPart0
+    3300022: Object010_MeshPart1
+    3300024: Object010_MeshPart2
+    4300000: Object009_MeshPart0
+    4300002: Object009_MeshPart1
+    4300004: Object009_MeshPart2
+    4300006: Object009_MeshPart3
+    4300008: Object009_MeshPart4
+    4300010: Object009_MeshPart5
+    4300012: Object009_MeshPart6
+    4300014: Object009_MeshPart7
+    4300016: Object009_MeshPart8
+    4300018: Object009_MeshPart9
+    4300020: Object010_MeshPart0
+    4300022: Object010_MeshPart1
+    4300024: Object010_MeshPart2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
