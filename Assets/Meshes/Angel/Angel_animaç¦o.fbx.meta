@@ -1,0 +1,2958 @@
+fileFormatVersion: 2
+guid: 438a4d2aad6df044b965938af771094f
+timeCreated: 1458896416
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 24_armor_0.8_1_1
+    100002: 24_arms_1_1_1
+    100004: 24_back_0.5_1_1
+    100006: 24_bracelest_0.8_1_1
+    100008: 24_chest_1_1_1
+    100010: 24_cloth_0.6_1_1
+    100012: 24_clotha_0.6_1_1
+    100014: 24_clothknees_0.6_1_1
+    100016: 24_eyes_2_1_1
+    100018: 24_face_1_1_1
+    100020: 24_feets_1_1_1
+    100022: 24_hands_1_1_1
+    100024: 24_legs_1_1_1
+    100026: 24_neck_1_1_1
+    100028: 24_teeth_0.8_1_1
+    100030: 25_band_1_1_1
+    100032: 25_belt_1_1_1
+    100034: 25_buttons_1_1_1
+    100036: 25_crystal_1_1_1
+    100038: 25_eyesss_1_1_1
+    100040: 25_hair_0.8_1_1
+    100042: 25_hairside_0.8_1_1
+    100044: 25_leaf_0.6_1_1
+    100046: 25_metal_1_1_1
+    100048: 25_wings_0.6_1_1
+    100050: 25_wingsa_0.6_1_1
+    100052: 25_wingsb_0.6_1_1
+    100054: 25_wingsc_0.6_1_1
+    100056: 7_eyebrows_0.5_1_1
+    100058: 7_eyelashes_0.5_1_1
+    100060: 7_hairb_0.8_1_1
+    100062: 7_hairc_0.8_1_1
+    100064: //RootNode
+    100066: arm left cloth a
+    100068: arm left cloth b
+    100070: arm left cloth b_end
+    100072: arm left cloth c
+    100074: arm left cloth c_end
+    100076: arm left cloth d
+    100078: arm left cloth d_end
+    100080: arm left elbow
+    100082: arm left elbow ctr
+    100084: arm left elbow ctr2
+    100086: arm left elbow ctr2_end
+    100088: arm left elbow ctr3
+    100090: arm left elbow ctr3_end
+    100092: arm left elbow ctr4
+    100094: arm left elbow ctr4_end
+    100096: arm left elbow ctr5
+    100098: arm left elbow ctr5_end
+    100100: arm left elbow ctr_end
+    100102: arm left finger 1a
+    100104: arm left finger 1b
+    100106: arm left finger 1c
+    100108: arm left finger 1c_end
+    100110: arm left finger 2a
+    100112: arm left finger 2b
+    100114: arm left finger 2c
+    100116: arm left finger 2c_end
+    100118: arm left finger 3a
+    100120: arm left finger 3b
+    100122: arm left finger 3c
+    100124: arm left finger 3c_end
+    100126: arm left finger 4a
+    100128: arm left finger 4b
+    100130: arm left finger 4c
+    100132: arm left finger 4c_end
+    100134: arm left finger 5 base
+    100136: arm left finger 5a
+    100138: arm left finger 5b
+    100140: arm left finger 5c
+    100142: arm left finger 5c_end
+    100144: arm left shoulder 1
+    100146: arm left shoulder 1 ctr
+    100148: arm left shoulder 1 ctr2
+    100150: arm left shoulder 1 ctr2_end
+    100152: arm left shoulder 1 ctr3
+    100154: arm left shoulder 1 ctr3_end
+    100156: arm left shoulder 1 ctr4
+    100158: arm left shoulder 1 ctr4_end
+    100160: arm left shoulder 1 ctr5
+    100162: arm left shoulder 1 ctr5_end
+    100164: arm left shoulder 2
+    100166: arm left shoulder 2 ctr
+    100168: arm left shoulder 2 ctr2
+    100170: arm left shoulder 2 ctr3
+    100172: arm left shoulder 2 ctr_end
+    100174: arm left wrist
+    100176: arm left wrist ctr
+    100178: arm left wrist ctr_end
+    100180: arm right cloth a
+    100182: arm right cloth b
+    100184: arm right cloth b_end
+    100186: arm right cloth c
+    100188: arm right cloth c_end
+    100190: arm right cloth d
+    100192: arm right cloth d_end
+    100194: arm right cloth e
+    100196: arm right cloth e_end
+    100198: arm right elbow
+    100200: arm right elbow ctr
+    100202: arm right elbow ctr2
+    100204: arm right elbow ctr2_end
+    100206: arm right elbow ctr3
+    100208: arm right elbow ctr3_end
+    100210: arm right elbow ctr4
+    100212: arm right elbow ctr4_end
+    100214: arm right elbow ctr5
+    100216: arm right elbow ctr5_end
+    100218: arm right elbow ctr_end
+    100220: arm right finger 1a
+    100222: arm right finger 1b
+    100224: arm right finger 1c
+    100226: arm right finger 1c_end
+    100228: arm right finger 2a
+    100230: arm right finger 2b
+    100232: arm right finger 2c
+    100234: arm right finger 2c_end
+    100236: arm right finger 3a
+    100238: arm right finger 3b
+    100240: arm right finger 3c
+    100242: arm right finger 3c_end
+    100244: arm right finger 4a
+    100246: arm right finger 4b
+    100248: arm right finger 4c
+    100250: arm right finger 4c_end
+    100252: arm right finger 5 base
+    100254: arm right finger 5a
+    100256: arm right finger 5b
+    100258: arm right finger 5c
+    100260: arm right finger 5c_end
+    100262: arm right shoulder 1
+    100264: arm right shoulder 1 ctr
+    100266: arm right shoulder 1 ctr2
+    100268: arm right shoulder 1 ctr2_end
+    100270: arm right shoulder 1 ctr3
+    100272: arm right shoulder 1 ctr3_end
+    100274: arm right shoulder 1 ctr4
+    100276: arm right shoulder 1 ctr4_end
+    100278: arm right shoulder 1 ctr5
+    100280: arm right shoulder 1 ctr5_end
+    100282: arm right shoulder 2
+    100284: arm right shoulder 2 ctr
+    100286: arm right shoulder 2 ctr2
+    100288: arm right shoulder 2 ctr3
+    100290: arm right shoulder 2 ctr_end
+    100292: arm right wrist
+    100294: arm right wrist ctr
+    100296: arm right wrist ctr_end
+    100298: Armature
+    100300: breasts
+    100302: breasts_end
+    100304: cloth back middle a
+    100306: cloth back middle b
+    100308: cloth back middle c
+    100310: cloth back middle d
+    100312: cloth back middle d_end
+    100314: cloth left a
+    100316: cloth left b
+    100318: cloth left back a
+    100320: cloth left back b
+    100322: cloth left back c
+    100324: cloth left back d
+    100326: cloth left back d_end
+    100328: cloth left c
+    100330: cloth left d
+    100332: cloth left d_end
+    100334: cloth left lower a
+    100336: cloth left lower b
+    100338: cloth left lower b_end
+    100340: cloth left side a
+    100342: cloth left side b
+    100344: cloth left side c
+    100346: cloth left side c_end
+    100348: cloth middle a
+    100350: cloth middle b
+    100352: cloth middle c
+    100354: cloth middle d
+    100356: cloth middle d_end
+    100358: cloth right a
+    100360: cloth right b
+    100362: cloth right back a
+    100364: cloth right back b
+    100366: cloth right back c
+    100368: cloth right back d
+    100370: cloth right back d_end
+    100372: cloth right c
+    100374: cloth right d
+    100376: cloth right d_end
+    100378: cloth right lower a
+    100380: cloth right lower b
+    100382: cloth right lower b_end
+    100384: cloth right side a
+    100386: cloth right side b
+    100388: cloth right side c
+    100390: cloth right side c_end
+    100392: hair left side a
+    100394: hair left side b
+    100396: hair left side c
+    100398: hair left side c_end
+    100400: hair right side a
+    100402: hair right side b
+    100404: hair right side c
+    100406: hair right side c_end
+    100408: head cheek left 1
+    100410: head cheek left 1_end
+    100412: head cheek left 2
+    100414: head cheek left 2_end
+    100416: head cheek right 1
+    100418: head cheek right 1_end
+    100420: head cheek right 2
+    100422: head cheek right 2_end
+    100424: head eyeball left
+    100426: head eyeball left_end
+    100428: head eyeball right
+    100430: head eyeball right_end
+    100432: head eyebrow left 1
+    100434: head eyebrow left 1_end
+    100436: head eyebrow left 2
+    100438: head eyebrow left 2_end
+    100440: head eyebrow left 3
+    100442: head eyebrow left 3_end
+    100444: head eyebrow right 1
+    100446: head eyebrow right 1_end
+    100448: head eyebrow right 2
+    100450: head eyebrow right 2_end
+    100452: head eyebrow right 3
+    100454: head eyebrow right 3_end
+    100456: head eyelid left lower
+    100458: head eyelid left lower_end
+    100460: head eyelid left upper
+    100462: head eyelid left upper_end
+    100464: head eyelid right lower
+    100466: head eyelid right lower_end
+    100468: head eyelid right upper
+    100470: head eyelid right upper_end
+    100472: head jaw
+    100474: head lip lower left
+    100476: head lip lower left_end
+    100478: head lip lower middle
+    100480: head lip lower middle_end
+    100482: head lip lower right
+    100484: head lip lower right_end
+    100486: head lip upper left
+    100488: head lip upper left_end
+    100490: head lip upper middle
+    100492: head lip upper middle_end
+    100494: head lip upper right
+    100496: head lip upper right_end
+    100498: head mouth corner left
+    100500: head mouth corner left_end
+    100502: head mouth corner right
+    100504: head mouth corner right_end
+    100506: head neck lower
+    100508: head neck upper
+    100510: head nostril left 1
+    100512: head nostril left 1_end
+    100514: head nostril left 2
+    100516: head nostril left 2_end
+    100518: head nostril right 1
+    100520: head nostril right 1_end
+    100522: head nostril right 2
+    100524: head nostril right 2_end
+    100526: head tongue 1
+    100528: head tongue 2
+    100530: head tongue 2_end
+    100532: leaf a
+    100534: leaf a_end
+    100536: leg left ankle
+    100538: leg left butt ctr
+    100540: leg left butt ctr_end
+    100542: leg left knee
+    100544: leg left knee ctr
+    100546: leg left knee ctr2
+    100548: leg left knee ctr2_end
+    100550: leg left knee ctr3
+    100552: leg left knee ctr3_end
+    100554: leg left knee ctr4
+    100556: leg left knee ctr_end
+    100558: leg left thigh
+    100560: leg left thigh ctr
+    100562: leg left thigh ctr2
+    100564: leg left thigh ctr2_end
+    100566: leg left thigh ctr3
+    100568: leg left thigh ctr3_end
+    100570: leg left thigh ctr_end
+    100572: leg left toes
+    100574: leg left toes_end
+    100576: leg right ankle
+    100578: leg right butt ctr
+    100580: leg right butt ctr_end
+    100582: leg right knee
+    100584: leg right knee ctr
+    100586: leg right knee ctr2
+    100588: leg right knee ctr2_end
+    100590: leg right knee ctr3
+    100592: leg right knee ctr3_end
+    100594: leg right knee ctr4
+    100596: leg right knee ctr_end
+    100598: leg right thigh
+    100600: leg right thigh ctr
+    100602: leg right thigh ctr2
+    100604: leg right thigh ctr2_end
+    100606: leg right thigh ctr3
+    100608: leg right thigh ctr3_end
+    100610: leg right thigh ctr_end
+    100612: leg right toes
+    100614: leg right toes_end
+    100616: pelvis
+    100618: root ground
+    100620: root hips
+    100622: spine lower
+    100624: spine upper
+    100626: unusedbone105
+    100628: unusedbone105_end
+    100630: unusedbone106
+    100632: unusedbone169
+    100634: unusedbone169_end
+    100636: unusedbone170
+    100638: unusedbone170_end
+    100640: unusedbone22
+    100642: unusedbone22_end
+    100644: unusedbone25
+    100646: unusedbone25_end
+    100648: unusedbone26
+    100650: unusedbone26_end
+    100652: unusedbone28
+    100654: unusedbone28_end
+    100656: unusedbone30
+    100658: unusedbone30_end
+    100660: unusedbone4
+    100662: unusedbone5
+    100664: unusedbone5_end
+    100666: wing left a
+    100668: wing left b
+    100670: wing left c
+    100672: wing left c_end
+    100674: wing left d
+    100676: wing left d_end
+    100678: wing left e
+    100680: wing left f
+    100682: wing left f_end
+    100684: wing right a
+    100686: wing right b
+    100688: wing right c
+    100690: wing right c_end
+    100692: wing right d
+    100694: wing right d_end
+    100696: wing right e
+    100698: wing right f
+    100700: wing right f_end
+    400000: 24_armor_0.8_1_1
+    400002: 24_arms_1_1_1
+    400004: 24_back_0.5_1_1
+    400006: 24_bracelest_0.8_1_1
+    400008: 24_chest_1_1_1
+    400010: 24_cloth_0.6_1_1
+    400012: 24_clotha_0.6_1_1
+    400014: 24_clothknees_0.6_1_1
+    400016: 24_eyes_2_1_1
+    400018: 24_face_1_1_1
+    400020: 24_feets_1_1_1
+    400022: 24_hands_1_1_1
+    400024: 24_legs_1_1_1
+    400026: 24_neck_1_1_1
+    400028: 24_teeth_0.8_1_1
+    400030: 25_band_1_1_1
+    400032: 25_belt_1_1_1
+    400034: 25_buttons_1_1_1
+    400036: 25_crystal_1_1_1
+    400038: 25_eyesss_1_1_1
+    400040: 25_hair_0.8_1_1
+    400042: 25_hairside_0.8_1_1
+    400044: 25_leaf_0.6_1_1
+    400046: 25_metal_1_1_1
+    400048: 25_wings_0.6_1_1
+    400050: 25_wingsa_0.6_1_1
+    400052: 25_wingsb_0.6_1_1
+    400054: 25_wingsc_0.6_1_1
+    400056: 7_eyebrows_0.5_1_1
+    400058: 7_eyelashes_0.5_1_1
+    400060: 7_hairb_0.8_1_1
+    400062: 7_hairc_0.8_1_1
+    400064: //RootNode
+    400066: arm left cloth a
+    400068: arm left cloth b
+    400070: arm left cloth b_end
+    400072: arm left cloth c
+    400074: arm left cloth c_end
+    400076: arm left cloth d
+    400078: arm left cloth d_end
+    400080: arm left elbow
+    400082: arm left elbow ctr
+    400084: arm left elbow ctr2
+    400086: arm left elbow ctr2_end
+    400088: arm left elbow ctr3
+    400090: arm left elbow ctr3_end
+    400092: arm left elbow ctr4
+    400094: arm left elbow ctr4_end
+    400096: arm left elbow ctr5
+    400098: arm left elbow ctr5_end
+    400100: arm left elbow ctr_end
+    400102: arm left finger 1a
+    400104: arm left finger 1b
+    400106: arm left finger 1c
+    400108: arm left finger 1c_end
+    400110: arm left finger 2a
+    400112: arm left finger 2b
+    400114: arm left finger 2c
+    400116: arm left finger 2c_end
+    400118: arm left finger 3a
+    400120: arm left finger 3b
+    400122: arm left finger 3c
+    400124: arm left finger 3c_end
+    400126: arm left finger 4a
+    400128: arm left finger 4b
+    400130: arm left finger 4c
+    400132: arm left finger 4c_end
+    400134: arm left finger 5 base
+    400136: arm left finger 5a
+    400138: arm left finger 5b
+    400140: arm left finger 5c
+    400142: arm left finger 5c_end
+    400144: arm left shoulder 1
+    400146: arm left shoulder 1 ctr
+    400148: arm left shoulder 1 ctr2
+    400150: arm left shoulder 1 ctr2_end
+    400152: arm left shoulder 1 ctr3
+    400154: arm left shoulder 1 ctr3_end
+    400156: arm left shoulder 1 ctr4
+    400158: arm left shoulder 1 ctr4_end
+    400160: arm left shoulder 1 ctr5
+    400162: arm left shoulder 1 ctr5_end
+    400164: arm left shoulder 2
+    400166: arm left shoulder 2 ctr
+    400168: arm left shoulder 2 ctr2
+    400170: arm left shoulder 2 ctr3
+    400172: arm left shoulder 2 ctr_end
+    400174: arm left wrist
+    400176: arm left wrist ctr
+    400178: arm left wrist ctr_end
+    400180: arm right cloth a
+    400182: arm right cloth b
+    400184: arm right cloth b_end
+    400186: arm right cloth c
+    400188: arm right cloth c_end
+    400190: arm right cloth d
+    400192: arm right cloth d_end
+    400194: arm right cloth e
+    400196: arm right cloth e_end
+    400198: arm right elbow
+    400200: arm right elbow ctr
+    400202: arm right elbow ctr2
+    400204: arm right elbow ctr2_end
+    400206: arm right elbow ctr3
+    400208: arm right elbow ctr3_end
+    400210: arm right elbow ctr4
+    400212: arm right elbow ctr4_end
+    400214: arm right elbow ctr5
+    400216: arm right elbow ctr5_end
+    400218: arm right elbow ctr_end
+    400220: arm right finger 1a
+    400222: arm right finger 1b
+    400224: arm right finger 1c
+    400226: arm right finger 1c_end
+    400228: arm right finger 2a
+    400230: arm right finger 2b
+    400232: arm right finger 2c
+    400234: arm right finger 2c_end
+    400236: arm right finger 3a
+    400238: arm right finger 3b
+    400240: arm right finger 3c
+    400242: arm right finger 3c_end
+    400244: arm right finger 4a
+    400246: arm right finger 4b
+    400248: arm right finger 4c
+    400250: arm right finger 4c_end
+    400252: arm right finger 5 base
+    400254: arm right finger 5a
+    400256: arm right finger 5b
+    400258: arm right finger 5c
+    400260: arm right finger 5c_end
+    400262: arm right shoulder 1
+    400264: arm right shoulder 1 ctr
+    400266: arm right shoulder 1 ctr2
+    400268: arm right shoulder 1 ctr2_end
+    400270: arm right shoulder 1 ctr3
+    400272: arm right shoulder 1 ctr3_end
+    400274: arm right shoulder 1 ctr4
+    400276: arm right shoulder 1 ctr4_end
+    400278: arm right shoulder 1 ctr5
+    400280: arm right shoulder 1 ctr5_end
+    400282: arm right shoulder 2
+    400284: arm right shoulder 2 ctr
+    400286: arm right shoulder 2 ctr2
+    400288: arm right shoulder 2 ctr3
+    400290: arm right shoulder 2 ctr_end
+    400292: arm right wrist
+    400294: arm right wrist ctr
+    400296: arm right wrist ctr_end
+    400298: Armature
+    400300: breasts
+    400302: breasts_end
+    400304: cloth back middle a
+    400306: cloth back middle b
+    400308: cloth back middle c
+    400310: cloth back middle d
+    400312: cloth back middle d_end
+    400314: cloth left a
+    400316: cloth left b
+    400318: cloth left back a
+    400320: cloth left back b
+    400322: cloth left back c
+    400324: cloth left back d
+    400326: cloth left back d_end
+    400328: cloth left c
+    400330: cloth left d
+    400332: cloth left d_end
+    400334: cloth left lower a
+    400336: cloth left lower b
+    400338: cloth left lower b_end
+    400340: cloth left side a
+    400342: cloth left side b
+    400344: cloth left side c
+    400346: cloth left side c_end
+    400348: cloth middle a
+    400350: cloth middle b
+    400352: cloth middle c
+    400354: cloth middle d
+    400356: cloth middle d_end
+    400358: cloth right a
+    400360: cloth right b
+    400362: cloth right back a
+    400364: cloth right back b
+    400366: cloth right back c
+    400368: cloth right back d
+    400370: cloth right back d_end
+    400372: cloth right c
+    400374: cloth right d
+    400376: cloth right d_end
+    400378: cloth right lower a
+    400380: cloth right lower b
+    400382: cloth right lower b_end
+    400384: cloth right side a
+    400386: cloth right side b
+    400388: cloth right side c
+    400390: cloth right side c_end
+    400392: hair left side a
+    400394: hair left side b
+    400396: hair left side c
+    400398: hair left side c_end
+    400400: hair right side a
+    400402: hair right side b
+    400404: hair right side c
+    400406: hair right side c_end
+    400408: head cheek left 1
+    400410: head cheek left 1_end
+    400412: head cheek left 2
+    400414: head cheek left 2_end
+    400416: head cheek right 1
+    400418: head cheek right 1_end
+    400420: head cheek right 2
+    400422: head cheek right 2_end
+    400424: head eyeball left
+    400426: head eyeball left_end
+    400428: head eyeball right
+    400430: head eyeball right_end
+    400432: head eyebrow left 1
+    400434: head eyebrow left 1_end
+    400436: head eyebrow left 2
+    400438: head eyebrow left 2_end
+    400440: head eyebrow left 3
+    400442: head eyebrow left 3_end
+    400444: head eyebrow right 1
+    400446: head eyebrow right 1_end
+    400448: head eyebrow right 2
+    400450: head eyebrow right 2_end
+    400452: head eyebrow right 3
+    400454: head eyebrow right 3_end
+    400456: head eyelid left lower
+    400458: head eyelid left lower_end
+    400460: head eyelid left upper
+    400462: head eyelid left upper_end
+    400464: head eyelid right lower
+    400466: head eyelid right lower_end
+    400468: head eyelid right upper
+    400470: head eyelid right upper_end
+    400472: head jaw
+    400474: head lip lower left
+    400476: head lip lower left_end
+    400478: head lip lower middle
+    400480: head lip lower middle_end
+    400482: head lip lower right
+    400484: head lip lower right_end
+    400486: head lip upper left
+    400488: head lip upper left_end
+    400490: head lip upper middle
+    400492: head lip upper middle_end
+    400494: head lip upper right
+    400496: head lip upper right_end
+    400498: head mouth corner left
+    400500: head mouth corner left_end
+    400502: head mouth corner right
+    400504: head mouth corner right_end
+    400506: head neck lower
+    400508: head neck upper
+    400510: head nostril left 1
+    400512: head nostril left 1_end
+    400514: head nostril left 2
+    400516: head nostril left 2_end
+    400518: head nostril right 1
+    400520: head nostril right 1_end
+    400522: head nostril right 2
+    400524: head nostril right 2_end
+    400526: head tongue 1
+    400528: head tongue 2
+    400530: head tongue 2_end
+    400532: leaf a
+    400534: leaf a_end
+    400536: leg left ankle
+    400538: leg left butt ctr
+    400540: leg left butt ctr_end
+    400542: leg left knee
+    400544: leg left knee ctr
+    400546: leg left knee ctr2
+    400548: leg left knee ctr2_end
+    400550: leg left knee ctr3
+    400552: leg left knee ctr3_end
+    400554: leg left knee ctr4
+    400556: leg left knee ctr_end
+    400558: leg left thigh
+    400560: leg left thigh ctr
+    400562: leg left thigh ctr2
+    400564: leg left thigh ctr2_end
+    400566: leg left thigh ctr3
+    400568: leg left thigh ctr3_end
+    400570: leg left thigh ctr_end
+    400572: leg left toes
+    400574: leg left toes_end
+    400576: leg right ankle
+    400578: leg right butt ctr
+    400580: leg right butt ctr_end
+    400582: leg right knee
+    400584: leg right knee ctr
+    400586: leg right knee ctr2
+    400588: leg right knee ctr2_end
+    400590: leg right knee ctr3
+    400592: leg right knee ctr3_end
+    400594: leg right knee ctr4
+    400596: leg right knee ctr_end
+    400598: leg right thigh
+    400600: leg right thigh ctr
+    400602: leg right thigh ctr2
+    400604: leg right thigh ctr2_end
+    400606: leg right thigh ctr3
+    400608: leg right thigh ctr3_end
+    400610: leg right thigh ctr_end
+    400612: leg right toes
+    400614: leg right toes_end
+    400616: pelvis
+    400618: root ground
+    400620: root hips
+    400622: spine lower
+    400624: spine upper
+    400626: unusedbone105
+    400628: unusedbone105_end
+    400630: unusedbone106
+    400632: unusedbone169
+    400634: unusedbone169_end
+    400636: unusedbone170
+    400638: unusedbone170_end
+    400640: unusedbone22
+    400642: unusedbone22_end
+    400644: unusedbone25
+    400646: unusedbone25_end
+    400648: unusedbone26
+    400650: unusedbone26_end
+    400652: unusedbone28
+    400654: unusedbone28_end
+    400656: unusedbone30
+    400658: unusedbone30_end
+    400660: unusedbone4
+    400662: unusedbone5
+    400664: unusedbone5_end
+    400666: wing left a
+    400668: wing left b
+    400670: wing left c
+    400672: wing left c_end
+    400674: wing left d
+    400676: wing left d_end
+    400678: wing left e
+    400680: wing left f
+    400682: wing left f_end
+    400684: wing right a
+    400686: wing right b
+    400688: wing right c
+    400690: wing right c_end
+    400692: wing right d
+    400694: wing right d_end
+    400696: wing right e
+    400698: wing right f
+    400700: wing right f_end
+    4300000: 7_hairc_0.8_1_1
+    4300002: 7_hairb_0.8_1_1
+    4300004: 7_eyelashes_0.5_1_1
+    4300006: 7_eyebrows_0.5_1_1
+    4300008: 25_wings_0.6_1_1
+    4300010: 25_metal_1_1_1
+    4300012: 25_leaf_0.6_1_1
+    4300014: 25_hairside_0.8_1_1
+    4300016: 25_eyesss_1_1_1
+    4300018: 25_crystal_1_1_1
+    4300020: 25_buttons_1_1_1
+    4300022: 25_belt_1_1_1
+    4300024: 25_band_1_1_1
+    4300026: 24_teeth_0.8_1_1
+    4300028: 24_neck_1_1_1
+    4300030: 24_legs_1_1_1
+    4300032: 24_hands_1_1_1
+    4300034: 24_feets_1_1_1
+    4300036: 24_face_1_1_1
+    4300038: 25_wingsc_0.6_1_1
+    4300040: 25_wingsb_0.6_1_1
+    4300042: 25_wingsa_0.6_1_1
+    4300044: 25_hair_0.8_1_1
+    4300046: 24_eyes_2_1_1
+    4300048: 24_clothknees_0.6_1_1
+    4300050: 24_clotha_0.6_1_1
+    4300052: 24_cloth_0.6_1_1
+    4300054: 24_chest_1_1_1
+    4300056: 24_bracelest_0.8_1_1
+    4300058: 24_back_0.5_1_1
+    4300060: 24_arms_1_1_1
+    4300062: 24_armor_0.8_1_1
+    7400000: "Armature|Angel anima\xE7\xE3o "
+    7400002: Armature|CameraAction
+    9500000: //RootNode
+    13700000: 24_armor_0.8_1_1
+    13700002: 24_arms_1_1_1
+    13700004: 24_back_0.5_1_1
+    13700006: 24_bracelest_0.8_1_1
+    13700008: 24_chest_1_1_1
+    13700010: 24_cloth_0.6_1_1
+    13700012: 24_clotha_0.6_1_1
+    13700014: 24_clothknees_0.6_1_1
+    13700016: 24_eyes_2_1_1
+    13700018: 24_face_1_1_1
+    13700020: 24_feets_1_1_1
+    13700022: 24_hands_1_1_1
+    13700024: 24_legs_1_1_1
+    13700026: 24_neck_1_1_1
+    13700028: 24_teeth_0.8_1_1
+    13700030: 25_band_1_1_1
+    13700032: 25_belt_1_1_1
+    13700034: 25_buttons_1_1_1
+    13700036: 25_crystal_1_1_1
+    13700038: 25_eyesss_1_1_1
+    13700040: 25_hair_0.8_1_1
+    13700042: 25_hairside_0.8_1_1
+    13700044: 25_leaf_0.6_1_1
+    13700046: 25_metal_1_1_1
+    13700048: 25_wings_0.6_1_1
+    13700050: 25_wingsa_0.6_1_1
+    13700052: 25_wingsb_0.6_1_1
+    13700054: 25_wingsc_0.6_1_1
+    13700056: 7_eyebrows_0.5_1_1
+    13700058: 7_eyelashes_0.5_1_1
+    13700060: 7_hairb_0.8_1_1
+    13700062: 7_hairc_0.8_1_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: "Armature|Angel anima\xE7\xE3o "
+      takeName: "Armature|Angel anima\xE7\xE3o "
+      firstFrame: 0
+      lastFrame: 399
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 7_eyebrows_0.5_1_1
+        weight: 1
+      - path: 7_eyelashes_0.5_1_1
+        weight: 1
+      - path: 7_hairb_0.8_1_1
+        weight: 1
+      - path: 7_hairc_0.8_1_1
+        weight: 1
+      - path: 24_armor_0.8_1_1
+        weight: 1
+      - path: 24_arms_1_1_1
+        weight: 1
+      - path: 24_back_0.5_1_1
+        weight: 1
+      - path: 24_bracelest_0.8_1_1
+        weight: 1
+      - path: 24_chest_1_1_1
+        weight: 1
+      - path: 24_cloth_0.6_1_1
+        weight: 1
+      - path: 24_clotha_0.6_1_1
+        weight: 1
+      - path: 24_clothknees_0.6_1_1
+        weight: 1
+      - path: 24_eyes_2_1_1
+        weight: 1
+      - path: 24_face_1_1_1
+        weight: 1
+      - path: 24_feets_1_1_1
+        weight: 1
+      - path: 24_hands_1_1_1
+        weight: 1
+      - path: 24_legs_1_1_1
+        weight: 1
+      - path: 24_neck_1_1_1
+        weight: 1
+      - path: 24_teeth_0.8_1_1
+        weight: 1
+      - path: 25_band_1_1_1
+        weight: 1
+      - path: 25_belt_1_1_1
+        weight: 1
+      - path: 25_buttons_1_1_1
+        weight: 1
+      - path: 25_crystal_1_1_1
+        weight: 1
+      - path: 25_eyesss_1_1_1
+        weight: 1
+      - path: 25_hair_0.8_1_1
+        weight: 1
+      - path: 25_hairside_0.8_1_1
+        weight: 1
+      - path: 25_leaf_0.6_1_1
+        weight: 1
+      - path: 25_metal_1_1_1
+        weight: 1
+      - path: 25_wings_0.6_1_1
+        weight: 1
+      - path: 25_wingsa_0.6_1_1
+        weight: 1
+      - path: 25_wingsb_0.6_1_1
+        weight: 1
+      - path: 25_wingsc_0.6_1_1
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root ground
+        weight: 1
+      - path: Armature/root ground/root hips
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c/cloth back middle d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c/cloth back middle d/cloth back middle d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c/cloth left d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c/cloth left d/cloth left d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c/cloth left back d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c/cloth left back d/cloth left back d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b/cloth left side c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b/cloth left side c/cloth left side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c/cloth middle d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c/cloth middle d/cloth middle d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c/cloth right d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c/cloth right d/cloth right d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c/cloth right back d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c/cloth right back d/cloth right back d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b/cloth right side c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b/cloth right side c/cloth right side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left butt ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left butt ctr/leg left butt
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle/leg left toes
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle/leg left toes/leg left toes_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr3/leg left knee ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a/cloth left lower b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a/cloth left lower b/cloth left lower b_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/unusedbone26
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/unusedbone26/unusedbone26_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr/leg
+          left knee ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr2/leg
+          left knee ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr2/leg left thigh ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr3/leg left thigh ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh ctr/leg left thigh
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right butt ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right butt ctr/leg right butt
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle/leg right toes
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle/leg right toes/leg right toes_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr3/leg right knee ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a/cloth right lower b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a/cloth right lower b/cloth right lower
+          b_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/unusedbone25
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/unusedbone25/unusedbone25_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr/leg right knee ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr2/leg right knee ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr2/leg right thigh ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr3/leg right thigh ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh ctr/leg right
+          thigh ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr4/arm left shoulder 1 ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr5/arm left shoulder 1 ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr3/arm left elbow
+          ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr4/arm left elbow
+          ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr5/arm left elbow
+          ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b/arm left finger 1c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b/arm left finger 1c/arm left finger 1c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b/arm left finger 2c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b/arm left finger 2c/arm left finger 2c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b/arm left finger 3c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b/arm left finger 3c/arm left finger 3c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b/arm left finger 4c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b/arm left finger 4c/arm left finger 4c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b/arm left finger 5c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b/arm left finger 5c/arm left finger 5c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist ctr/arm left wrist ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr/arm left shoulder 2 ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a/arm left
+          cloth b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a/arm left
+          cloth b/arm left cloth b_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth c/arm left
+          cloth c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth d/arm left
+          cloth d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr/arm left
+          elbow ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr2/arm left
+          elbow ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr/arm left shoulder 1 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr/arm left shoulder 1 ctr2/arm left shoulder 1 ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr3/arm left shoulder 1 ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr4/arm right shoulder 1 ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr5/arm right shoulder 1 ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr3/arm right elbow
+          ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr4/arm right elbow
+          ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr5/arm right elbow
+          ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b/arm right finger 1c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b/arm right finger 1c/arm right finger 1c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b/arm right finger 2c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b/arm right finger 2c/arm right finger 2c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b/arm right finger 3c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b/arm right finger 3c/arm right finger 3c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b/arm right finger 4c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b/arm right finger 4c/arm right finger 4c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b/arm right finger 5c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b/arm right finger 5c/arm right
+          finger 5c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist ctr/arm right wrist
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr/arm right shoulder 2 ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a/arm right
+          cloth b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a/arm right
+          cloth b/arm right cloth b_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth c/arm right
+          cloth c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth d/arm right
+          cloth d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth e/arm right
+          cloth e_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr/arm
+          right elbow ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr2/arm
+          right elbow ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr/arm right shoulder 1 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr/arm right shoulder 1 ctr2/arm right shoulder 1 ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr3/arm right shoulder 1 ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/breasts
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/breasts/breasts_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b/hair left side c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b/hair left side c/hair left
+          side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b/hair right side c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b/hair right side c/hair right
+          side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 1/head cheek left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 2/head cheek left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 1/head cheek right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 2/head cheek right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball left/head eyeball left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball right/head eyeball right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 1/head eyebrow left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 2/head eyebrow left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 3/head eyebrow left 3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 1/head eyebrow right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 2/head eyebrow right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 3/head eyebrow right 3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left lower/head eyelid left lower_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left upper/head eyelid left upper_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right lower/head eyelid right lower_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right upper/head eyelid right upper_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower left/head lip lower left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower middle
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower middle/head lip lower middle_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower right/head lip lower right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1/head tongue 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1/head tongue 2/head tongue
+          2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper left/head lip upper left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper middle
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper middle/head lip upper middle_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper right/head lip upper right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner left/head mouth corner left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner right/head mouth corner right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 1/head nostril left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 2/head nostril left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 1/head nostril right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 2/head nostril right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone169
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone169/unusedbone169_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone105
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone105/unusedbone105_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone170
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone170/unusedbone170_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/leaf a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/leaf a/leaf a_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4/unusedbone5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4/unusedbone5/unusedbone5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone22
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone22/unusedbone22_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone28
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone28/unusedbone28_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone30
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone30/unusedbone30_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left c/wing left c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left d/wing left d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e/wing left f
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e/wing left f/wing left f_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right c/wing right c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right d/wing right d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e/wing right f
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e/wing right f/wing right f_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|CameraAction
+      takeName: Armature|CameraAction
+      firstFrame: 0
+      lastFrame: 355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 7_eyebrows_0.5_1_1
+        weight: 1
+      - path: 7_eyelashes_0.5_1_1
+        weight: 1
+      - path: 7_hairb_0.8_1_1
+        weight: 1
+      - path: 7_hairc_0.8_1_1
+        weight: 1
+      - path: 24_armor_0.8_1_1
+        weight: 1
+      - path: 24_arms_1_1_1
+        weight: 1
+      - path: 24_back_0.5_1_1
+        weight: 1
+      - path: 24_bracelest_0.8_1_1
+        weight: 1
+      - path: 24_chest_1_1_1
+        weight: 1
+      - path: 24_cloth_0.6_1_1
+        weight: 1
+      - path: 24_clotha_0.6_1_1
+        weight: 1
+      - path: 24_clothknees_0.6_1_1
+        weight: 1
+      - path: 24_eyes_2_1_1
+        weight: 1
+      - path: 24_face_1_1_1
+        weight: 1
+      - path: 24_feets_1_1_1
+        weight: 1
+      - path: 24_hands_1_1_1
+        weight: 1
+      - path: 24_legs_1_1_1
+        weight: 1
+      - path: 24_neck_1_1_1
+        weight: 1
+      - path: 24_teeth_0.8_1_1
+        weight: 1
+      - path: 25_band_1_1_1
+        weight: 1
+      - path: 25_belt_1_1_1
+        weight: 1
+      - path: 25_buttons_1_1_1
+        weight: 1
+      - path: 25_crystal_1_1_1
+        weight: 1
+      - path: 25_eyesss_1_1_1
+        weight: 1
+      - path: 25_hair_0.8_1_1
+        weight: 1
+      - path: 25_hairside_0.8_1_1
+        weight: 1
+      - path: 25_leaf_0.6_1_1
+        weight: 1
+      - path: 25_metal_1_1_1
+        weight: 1
+      - path: 25_wings_0.6_1_1
+        weight: 1
+      - path: 25_wingsa_0.6_1_1
+        weight: 1
+      - path: 25_wingsb_0.6_1_1
+        weight: 1
+      - path: 25_wingsc_0.6_1_1
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/root ground
+        weight: 1
+      - path: Armature/root ground/root hips
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c/cloth back middle d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth back middle a/cloth back
+          middle b/cloth back middle c/cloth back middle d/cloth back middle d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c/cloth left d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left a/cloth left b/cloth
+          left c/cloth left d/cloth left d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c/cloth left back d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left back a/cloth left back
+          b/cloth left back c/cloth left back d/cloth left back d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b/cloth left side c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth left side a/cloth left side
+          b/cloth left side c/cloth left side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c/cloth middle d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth middle a/cloth middle b/cloth
+          middle c/cloth middle d/cloth middle d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c/cloth right d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right a/cloth right b/cloth
+          right c/cloth right d/cloth right d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c/cloth right back d
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right back a/cloth right
+          back b/cloth right back c/cloth right back d/cloth right back d_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b/cloth right side c
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/cloth right side a/cloth right
+          side b/cloth right side c/cloth right side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left butt ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left butt ctr/leg left butt
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle/leg left toes
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left ankle/leg left toes/leg left toes_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr3/leg left knee ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a/cloth left lower b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/leg
+          left knee ctr4/cloth left lower a/cloth left lower b/cloth left lower b_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/unusedbone26
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee/unusedbone26/unusedbone26_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr/leg
+          left knee ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left knee ctr2/leg
+          left knee ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr2/leg left thigh ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh/leg left thigh
+          ctr3/leg left thigh ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg left thigh ctr/leg left thigh
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right butt ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right butt ctr/leg right butt
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle/leg right toes
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right ankle/leg right toes/leg right toes_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr3/leg right knee ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a/cloth right lower b
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/leg
+          right knee ctr4/cloth right lower a/cloth right lower b/cloth right lower
+          b_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/unusedbone25
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee/unusedbone25/unusedbone25_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr/leg right knee ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right knee
+          ctr2/leg right knee ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr2/leg right thigh ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh/leg right thigh
+          ctr3/leg right thigh ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh ctr
+        weight: 1
+      - path: Armature/root ground/root hips/pelvis/leg right thigh ctr/leg right
+          thigh ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr4/arm left shoulder 1 ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 1 ctr5/arm left shoulder 1 ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr3/arm left elbow
+          ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr4/arm left elbow
+          ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left elbow ctr5/arm left elbow
+          ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b/arm left finger 1c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 1a/arm
+          left finger 1b/arm left finger 1c/arm left finger 1c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b/arm left finger 2c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 2a/arm
+          left finger 2b/arm left finger 2c/arm left finger 2c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b/arm left finger 3c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 3a/arm
+          left finger 3b/arm left finger 3c/arm left finger 3c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b/arm left finger 4c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 4a/arm
+          left finger 4b/arm left finger 4c/arm left finger 4c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b/arm left finger 5c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist/arm left finger 5 base/arm
+          left finger 5a/arm left finger 5b/arm left finger 5c/arm left finger 5c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left elbow/arm left wrist ctr/arm left wrist ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr/arm left shoulder 2 ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a/arm left
+          cloth b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth a/arm left
+          cloth b/arm left cloth b_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth c/arm left
+          cloth c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr2/arm left cloth d/arm left
+          cloth d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr/arm left
+          elbow ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1/arm left shoulder 2/arm left shoulder 2 ctr3/arm left elbow ctr2/arm left
+          elbow ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr/arm left shoulder 1 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr/arm left shoulder 1 ctr2/arm left shoulder 1 ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm left shoulder
+          1 ctr3/arm left shoulder 1 ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr4/arm right shoulder 1 ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 1 ctr5/arm right shoulder 1 ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr3/arm right elbow
+          ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr4/arm right elbow
+          ctr4_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right elbow ctr5/arm right elbow
+          ctr5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b/arm right finger 1c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          1a/arm right finger 1b/arm right finger 1c/arm right finger 1c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b/arm right finger 2c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          2a/arm right finger 2b/arm right finger 2c/arm right finger 2c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b/arm right finger 3c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          3a/arm right finger 3b/arm right finger 3c/arm right finger 3c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b/arm right finger 4c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          4a/arm right finger 4b/arm right finger 4c/arm right finger 4c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b/arm right finger 5c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist/arm right finger
+          5 base/arm right finger 5a/arm right finger 5b/arm right finger 5c/arm right
+          finger 5c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right elbow/arm right wrist ctr/arm right wrist
+          ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr/arm right shoulder 2 ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a/arm right
+          cloth b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth a/arm right
+          cloth b/arm right cloth b_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth c/arm right
+          cloth c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth d/arm right
+          cloth d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr2/arm right cloth e/arm right
+          cloth e_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr/arm
+          right elbow ctr_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1/arm right shoulder 2/arm right shoulder 2 ctr3/arm right elbow ctr2/arm
+          right elbow ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr/arm right shoulder 1 ctr2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr/arm right shoulder 1 ctr2/arm right shoulder 1 ctr2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/arm right shoulder
+          1 ctr3/arm right shoulder 1 ctr3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/breasts
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/breasts/breasts_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b/hair left side c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair left side a/hair left side b/hair left side c/hair left
+          side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b/hair right side c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/hair right side a/hair right side b/hair right side c/hair right
+          side c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 1/head cheek left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek left 2/head cheek left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 1/head cheek right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head cheek right 2/head cheek right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball left/head eyeball left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyeball right/head eyeball right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 1/head eyebrow left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 2/head eyebrow left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow left 3/head eyebrow left 3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 1/head eyebrow right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 2/head eyebrow right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 3
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyebrow right 3/head eyebrow right 3_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left lower/head eyelid left lower_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid left upper/head eyelid left upper_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right lower
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right lower/head eyelid right lower_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right upper
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head eyelid right upper/head eyelid right upper_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower left/head lip lower left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower middle
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower middle/head lip lower middle_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head lip lower right/head lip lower right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1/head tongue 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head jaw/head tongue 1/head tongue 2/head tongue
+          2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper left/head lip upper left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper middle
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper middle/head lip upper middle_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head lip upper right/head lip upper right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner left
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner left/head mouth corner left_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner right
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head mouth corner right/head mouth corner right_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 1/head nostril left 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril left 2/head nostril left 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 1
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 1/head nostril right 1_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 2
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone106/head nostril right 2/head nostril right 2_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone169
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/head
+          neck upper/unusedbone169/unusedbone169_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone105
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone105/unusedbone105_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone170
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/head neck lower/unusedbone170/unusedbone170_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/leaf a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/leaf a/leaf a_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4/unusedbone5
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone4/unusedbone5/unusedbone5_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone22
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone22/unusedbone22_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone28
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone28/unusedbone28_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone30
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/unusedbone30/unusedbone30_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left c/wing left c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left d/wing left d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e/wing left f
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing left a/wing
+          left b/wing left e/wing left f/wing left f_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right c
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right c/wing right c_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right d
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right d/wing right d_end
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e/wing right f
+        weight: 1
+      - path: Armature/root ground/root hips/spine lower/spine upper/wing right a/wing
+          right b/wing right e/wing right f/wing right f_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

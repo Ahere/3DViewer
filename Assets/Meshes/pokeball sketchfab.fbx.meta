@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: cbf5edda5dc2ce64dbdd44f0fdb0c17d
+timeCreated: 1458899806
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Empty
+    100002: Plane
+    100004: Point
+    100006: //RootNode
+    100008: Sphere.003
+    100010: Sphere.004
+    100012: Sphere.005
+    100014: Sphere.006
+    100016: Sphere.007
+    100018: Sphere.008
+    400000: Empty
+    400002: Plane
+    400004: Point
+    400006: //RootNode
+    400008: Sphere.003
+    400010: Sphere.004
+    400012: Sphere.005
+    400014: Sphere.006
+    400016: Sphere.007
+    400018: Sphere.008
+    2300000: Plane
+    2300002: Sphere.003
+    2300004: Sphere.004
+    2300006: Sphere.005
+    2300008: Sphere.006
+    2300010: Sphere.007
+    2300012: Sphere.008
+    3300000: Plane
+    3300002: Sphere.003
+    3300004: Sphere.004
+    3300006: Sphere.005
+    3300008: Sphere.006
+    3300010: Sphere.007
+    3300012: Sphere.008
+    4300000: Plane
+    4300002: Sphere.005
+    4300004: Sphere.003
+    4300006: Sphere.008
+    4300008: Sphere.006
+    4300010: Sphere.004
+    4300012: Sphere.007
+    7400000: Empty|EmptyAction
+    7400002: Empty|Sphere.005Action
+    7400004: Empty|Sphere.007Action
+    7400006: Empty|Sphere.008Action
+    7400008: Sphere.005|EmptyAction
+    7400010: Sphere.005|Sphere.005Action
+    7400012: Sphere.005|Sphere.007Action
+    7400014: Sphere.005|Sphere.008Action
+    7400016: Sphere.008|EmptyAction
+    7400018: Sphere.008|Sphere.005Action
+    7400020: Sphere.008|Sphere.007Action
+    7400022: Sphere.008|Sphere.008Action
+    7400024: Sphere.007|EmptyAction
+    7400026: Sphere.007|Sphere.005Action
+    7400028: Sphere.007|Sphere.007Action
+    7400030: Sphere.007|Sphere.008Action
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Empty|EmptyAction
+      takeName: Empty|EmptyAction
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Empty|Sphere.005Action
+      takeName: Empty|Sphere.005Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Empty|Sphere.007Action
+      takeName: Empty|Sphere.007Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Empty|Sphere.008Action
+      takeName: Empty|Sphere.008Action
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.005|EmptyAction
+      takeName: Sphere.005|EmptyAction
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.005|Sphere.005Action
+      takeName: Sphere.005|Sphere.005Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.005|Sphere.007Action
+      takeName: Sphere.005|Sphere.007Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.005|Sphere.008Action
+      takeName: Sphere.005|Sphere.008Action
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.008|EmptyAction
+      takeName: Sphere.008|EmptyAction
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.008|Sphere.005Action
+      takeName: Sphere.008|Sphere.005Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.008|Sphere.007Action
+      takeName: Sphere.008|Sphere.007Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.008|Sphere.008Action
+      takeName: Sphere.008|Sphere.008Action
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.007|EmptyAction
+      takeName: Sphere.007|EmptyAction
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.007|Sphere.005Action
+      takeName: Sphere.007|Sphere.005Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.007|Sphere.007Action
+      takeName: Sphere.007|Sphere.007Action
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sphere.007|Sphere.008Action
+      takeName: Sphere.007|Sphere.008Action
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Empty
+        weight: 1
+      - path: Empty/Sphere.005
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003
+        weight: 1
+      - path: Empty/Sphere.005/Sphere.003/Sphere.008
+        weight: 1
+      - path: Empty/Sphere.006
+        weight: 1
+      - path: Empty/Sphere.006/Sphere.004
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Point
+        weight: 1
+      - path: Sphere.007
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
