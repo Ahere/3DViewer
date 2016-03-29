@@ -6,7 +6,7 @@ public class Shaders : MonoBehaviour {
 
 	public Material orignMat;
 	public Material mat1;
-	public Material mat2;
+	public Material[] mat2;
 	//public Material mat3;
 
 
@@ -45,11 +45,13 @@ public class Shaders : MonoBehaviour {
 		
 
 	}
-	 public void SetMat2()
+
+	 public void SetMat2(int nIndex)
 	{
 		if (mat2 != null) 
 		{
-			GetComponent<Renderer>().material = mat2;
+			
+			GetComponent<Renderer>().material = mat2[nIndex];
 		
 
 		}

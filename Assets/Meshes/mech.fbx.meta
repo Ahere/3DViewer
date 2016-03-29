@@ -3,7 +3,14 @@ guid: f1f0fb0f86e28124ea5bd44b5ce5d1a4
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: Mesh
+    7400000: Default Take
+    9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
@@ -12,13 +19,18 @@ ModelImporter:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
     resampleRotations: 1
-    optimizeGameObjects: 0
+    optimizeGameObjects: 1
     motionNodeName: 
-    animationImportErrors: 
+    animationImportErrors: '
+
+      Imported file ''mech'' conversion failed: Required human bone ''Hips'' not found
+
+
+'
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -51,7 +63,12 @@ ModelImporter:
   copyAvatar: 0
   humanDescription:
     human: []
-    skeleton: []
+    skeleton:
+    - name: mech(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -62,7 +79,7 @@ ModelImporter:
     rootMotionBoneName: 
     hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
+  animationType: 3
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
