@@ -17,6 +17,7 @@ var resetScene : String;
 var soundEnabled = true;
 var guiEnabled = true;
 
+
 private var screenwidth = Screen.width;
 private var screenhieght = Screen.height;
 
@@ -60,19 +61,13 @@ function Update (){
 	//add additional buttons/scenes here, remember to go 40 units down, and one up on the LoadLevel and "model#"
 	public function LoadNext(scene : String )
 	{ 
-//	public var scene : String;
-	SceneManager.LoadScene(scene);
+     if (scene != Application.loadedLevelName) 
+      {
 
-//				Application.LoadLevel(scene);
-//		}
-//		if (GUI.Button (Rect (20,60,buttonWidth,25), model2)) {
-//			Application.LoadLevel(1);
-//		}
-//		if (GUI.Button (Rect (20,100,buttonWidth,25), model3)) {
-//			Application.LoadLevel(2);
-//		}
-//		if (GUI.Button (Rect (20,140,buttonWidth,25), model4)) {
-//			Application.LoadLevel(3);
-//		}
-//	}
-}
+	   SceneManager.LoadScene(scene);
+	   Debug.Log(Application.loadedLevelName);
+
+	  }
+
+
+   }
