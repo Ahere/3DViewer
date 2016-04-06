@@ -15,5 +15,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
-Assets\Meshes\ filter=lfs diff=lfs merge=lfs -text
 Library\metadata filter=lfs diff=lfs merge=lfs -text
+Assets\Meshes filter=lfs diff=lfs merge=lfs -text
