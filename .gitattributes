@@ -19,3 +19,5 @@ Library/metadata filter=lfs diff=lfs merge=lfs -text
 Assets/Meshes filter=lfs diff=lfs merge=lfs -text
 PCbuild/ filter=lfs diff=lfs merge=lfs -text
 WebBuild/ filter=lfs diff=lfs merge=lfs -text
+PCbuild/player_win_x86.pdb filter=lfs diff=lfs merge=lfs -text
+*.pdb filter=lfs diff=lfs merge=lfs -text
