@@ -1,0 +1,28 @@
+**********************************************
+				EASY TOUCH 4
+				
+Copyright © 2015 The Hedgehog Team
+http://www.blitz3dfr.com/teamtalk/index.php
+
+		the.hedgehog.team@gmail.com
+
+**********************************************
+EasyTouch 4.0.4 
+===============
+- Fixed twist angle, it was always positive, whatever the direction of rotaiton
+
+EasyTouch 4.0.3 
+===============
+- fixe twist gesture, in some cases the value of "TwistAngle" was false (due to rounding of the function Vector2DeltaAngle of Unity)
+
+EasyTouch 4.0.2 
+===============
+- fixe spelling error : GetTouchToWordlPoint  to GetTouchToWorldPoint
+
+EasyTouch 4.0.1 
+===============
+- NGUI compatibility mode works as EasyTouch 3.X
+- New parameter allow you to choose the double tap detection mode :
+	By system : Double works as EasyTouch 3.X	
+	By time	  : Double tap is relative to a maximum time, On_Simple isn't firing during a double tap, but a delay is required before to send it.
+

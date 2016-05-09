@@ -5,6 +5,8 @@ Project("{CFC2F5B6-07E9-07DF-DA22-1212B62357CD}") = "3D viewer", "Assembly-CShar
 EndProject
 Project("{CFC2F5B6-07E9-07DF-DA22-1212B62357CD}") = "3D viewer", "Assembly-CSharp.csproj", "{A5075ABA-1CEA-602E-4975-006380E2CEEF}"
 EndProject
+Project("{CFC2F5B6-07E9-07DF-DA22-1212B62357CD}") = "3D viewer", "Assembly-CSharp-Editor.csproj", "{1F166FF2-90F5-6384-6F16-521BEE409DE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{A5075ABA-1CEA-602E-4975-006380E2CEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5075ABA-1CEA-602E-4975-006380E2CEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5075ABA-1CEA-602E-4975-006380E2CEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F166FF2-90F5-6384-6F16-521BEE409DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F166FF2-90F5-6384-6F16-521BEE409DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F166FF2-90F5-6384-6F16-521BEE409DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F166FF2-90F5-6384-6F16-521BEE409DE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
