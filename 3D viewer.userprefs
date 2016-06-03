@@ -1,17 +1,18 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\JMO Assets\!JMO Assets Readme.txt">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\goey.js">
     <Files>
-      <File FileName="Assets\JMO Assets\!JMO Assets Readme.txt" Line="1" Column="1" />
       <File FileName="Assets\Scripts\goey.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PolyCount.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Shaders.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\WireFrameScript.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Drag.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\LightOrbit.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\MouseOrbit.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CamZoom.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Pan.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\WireframeSetScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SmoothLookAt.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
