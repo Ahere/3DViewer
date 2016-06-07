@@ -1,5 +1,7 @@
-D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
-D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-CSharp.dll
+D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEditor.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEngine.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEngine.Networking.dll
@@ -12,10 +14,10 @@ D:\UnityProject\3D viewer\Temp\bin\Debug\Unity.UNetWeaver.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\Unity.CecilTools.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\Mono.Cecil.Pdb.dll
 D:\UnityProject\3D viewer\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProject\3D viewer\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEngine.xml
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEditor.xml
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEngine.UI.xml
 D:\UnityProject\3D viewer\Temp\bin\Debug\UnityEngine.Networking.xml
-D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
-D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp-firstpass.dll
-D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp.dll
+D:\UnityProject\3D viewer\obj\Debug\Assembly-CSharp.pdb

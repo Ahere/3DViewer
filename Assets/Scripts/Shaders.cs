@@ -48,12 +48,16 @@ public class Shaders : MonoBehaviour {
 
 	 public void SetMat2(int nIndex)
 	{
+
+		for (int i = 0 ; i < nIndex ; i++)
+		{
 		if (mat2 != null) 
 		{
-			
-			GetComponent<Renderer>().material = mat2[nIndex];
-		
-
+				
+				Material[] mats3 = GetComponent<Renderer>().materials;	
+				mats3[i] = mat2[i];
+				GetComponent<Renderer>().materials = mats3;
+		}
 		}
 	}
 	//public void SetMat3()
