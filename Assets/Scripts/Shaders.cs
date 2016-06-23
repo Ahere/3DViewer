@@ -4,8 +4,8 @@ using System.Collections;
 public class Shaders : MonoBehaviour {
 
 
-	public Material orignMat;
-	public Material mat1;
+	public Material[] orignMat;
+	public Material[] mat1;
 	public Material[] mat2;
 	//public Material mat3;
 
@@ -20,29 +20,34 @@ public class Shaders : MonoBehaviour {
 		
 	
 	}
-	public void SetOrignMat()
+	public void SetOrignMat(int nIndex)
 	{
-		if (orignMat != null) 
+		for (int i = 0 ; i < nIndex ; i++)
 		{
-			GetComponent<Renderer>().material = orignMat;	
+			if (mat2 != null) 
+			{
 
-
-
+				Material[] mats3 = GetComponent<Renderer>().materials;	
+				mats3[i] = orignMat[i];
+				GetComponent<Renderer>().materials = mats3;
+			}
 		}
 
 
 	}
 
-	 public void SetMat1()
+	public void SetMat1(int nIndex)
 	{
-		if (mat1 != null) 
+		for (int i = 0 ; i < nIndex ; i++)
 		{
-			GetComponent<Renderer>().material = mat1;	
-			
-		
-		
+			if (mat2 != null) 
+			{
+
+				Material[] mats3 = GetComponent<Renderer>().materials;	
+				mats3[i] = mat1[i];
+				GetComponent<Renderer>().materials = mats3;
+			}
 		}
-		
 
 	}
 
