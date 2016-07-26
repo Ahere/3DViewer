@@ -5,8 +5,8 @@ public class Shaders : MonoBehaviour {
 
 
 	public Material[] orignMat;
-	public Material[] mat1;
-	public Material[] mat2;
+	public Material[] reflectiveMat;
+	public Material[] wireframeMat;
 	//public Material mat3;
 
 
@@ -24,7 +24,7 @@ public class Shaders : MonoBehaviour {
 	{
 		for (int i = 0 ; i < nIndex ; i++)
 		{
-			if (mat2 != null) 
+			if (orignMat != null) 
 			{
 
 				Material[] mats3 = GetComponent<Renderer>().materials;	
@@ -36,31 +36,31 @@ public class Shaders : MonoBehaviour {
 
 	}
 
-	public void SetMat1(int nIndex)
+	public void SetReflectiveMat(int nIndex)
 	{
 		for (int i = 0 ; i < nIndex ; i++)
 		{
-			if (mat2 != null) 
+			if (reflectiveMat != null) 
 			{
 
 				Material[] mats3 = GetComponent<Renderer>().materials;	
-				mats3[i] = mat1[i];
+				mats3[i] = reflectiveMat[i];
 				GetComponent<Renderer>().materials = mats3;
 			}
 		}
 
 	}
 
-	 public void SetMat2(int nIndex)
+	public void SetWireframeMat(int nIndex)
 	{
 
 		for (int i = 0 ; i < nIndex ; i++)
 		{
-		if (mat2 != null) 
+			if (wireframeMat != null) 
 		{
 				
 				Material[] mats3 = GetComponent<Renderer>().materials;	
-				mats3[i] = mat2[i];
+				mats3[i] = wireframeMat[i];
 				GetComponent<Renderer>().materials = mats3;
 		}
 		}
